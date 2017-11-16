@@ -21,6 +21,8 @@ class RandomTest extends Component {
       <div>
         <h2>{h2}</h2>
       <HelloWorld h2='testing helloWorld'></HelloWorld>
+      <Closings h2='testing file'></Closings>
+      <WNOW h2='testing folder'></WNOW>
       </div>
     );
   }
