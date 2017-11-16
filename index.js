@@ -1,5 +1,7 @@
 import React, { Component, PropTypes } from 'react';
 import HelloWorld  from './HelloWorld.js';
+import Closings from './Closings.zip';
+import WNOW from './WNOW.cc';
 
 class RandomTest extends Component {
   static PropTypes = {
