@@ -18,6 +18,7 @@ class RandomTest extends Component {
     return (
       <div>
         <h2>{h2}</h2>
+      <HelloWorld h2='testing helloWorld'></HelloWorld>
       </div>
     );
   }
